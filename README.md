@@ -1,4 +1,4 @@
-# Accessing RStudio ::computer::
+# Accessing RStudio :computer:
 
 Below are options to access RStudio at Duke.
 
