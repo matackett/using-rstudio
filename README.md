@@ -9,7 +9,6 @@ Below are options to access RStudio at Duke.
 - [Install or Upgrade R and RStudio](https://happygitwithr.com/install-r-rstudio.html)
 - [Install Git](https://happygitwithr.com/install-git.html)
 - [Introduce Yourself to Git](https://happygitwithr.com/hello-git.html)
-Connect RStudio to Git and GitHub
 - [Configure GitHub authentication](https://github.com/DukeStatSci/github_auth_guide)
 - If you want to use R Markdown to produce PDF documents, install the [**TinyTex**](https://yihui.org/tinytex/) R package by running the following code in the console: 
 
