@@ -1,6 +1,6 @@
-# Accessing RStudio 
+# Accessing RStudio :computer:
 
-Below are options to access RStudio at Duke. 
+Below are options to access RStudio at Duke.
 
 :one: **RStudio Docker Container**: As a Duke student, you have access to RStudio through a [Docker container](https://vm-manage.oit.duke.edu/containers) managed by Duke OIT. Use your NetID to reserve a generic **RStudio** container. It is already set up to utilize version control using Git. [Click here](https://github.com/DukeStatSci/github_auth_guide) for instructions on configuring GitHub authentication. 
 
