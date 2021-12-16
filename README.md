@@ -2,7 +2,7 @@
 
 Below are options to access RStudio at Duke. 
 
-:one: [RStudio Docker container](https://vm-manage.oit.duke.edu/containers) managed by Duke OIT VM-Manage: As a Duke student, you have access to RStudio through a Docker container managed by Duke OIT. Use your NetID to reserve a generic **RStudio** container. It is already set up to utilize version control using Git. [Click here](https://github.com/DukeStatSci/github_auth_guide) for instructions on configuring GitHub authentication. 
+:one: **RStudio Docker Container**: As a Duke student, you have access to RStudio through a [Docker container](https://vm-manage.oit.duke.edu/containers) managed by Duke OIT. Use your NetID to reserve a generic **RStudio** container. It is already set up to utilize version control using Git. [Click here](https://github.com/DukeStatSci/github_auth_guide) for instructions on configuring GitHub authentication. 
 
 :two: **Install RStudio on your laptop**: You can install RStudio on your local machine and configure it to work with Git and GitHub. The text [Happy Git and GitHub for the useR](https://happygitwithr.com/) is a great resource to help you install RStudio and configure Git. Here is a basic outline of the steps:
 
